@@ -1,0 +1,21 @@
+.containerFlex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.containerFlex div {
+  flex: 0 0 33%;
+}
+
+
+.containerFlexPlan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container div {
+  flex: 0 0 33%;
+}
